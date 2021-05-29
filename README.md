@@ -111,3 +111,5 @@ git stash apply
 @ When you come back to your changes after checkout to other branches 
 
 
+Adding a Sass Stylesheet
+To use Sass, first install node-sass: $ npm install node-sass --save
